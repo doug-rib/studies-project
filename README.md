@@ -9,6 +9,12 @@ Após certificar-se que possui o npm basta clonar o projeto no Github e rodar os
 
 Obs: a visualização pelo browser será feita pela porta http://localhost:3000.
 
+# Utilização do aplicativo web:
+
+Basta colocar um nome para o estudo, o tempo para realização e clicar no botão adicionar. O estudo em questão irá aparecer ao lado direito.\
+Ao clicar no nome do estudo o tempo vai aparecer no cronômetro e clicando no botão iniciar a contagem começará a decrescer.\
+No fim da contagem o estudo ficará verde como símbolo do término.
+
 # Getting Started with Create React App:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

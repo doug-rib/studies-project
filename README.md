@@ -1,3 +1,14 @@
+# Inicialização do projeto:
+
+Para instalação das dependências do projeto é necessário que sua máquina possua o Nodejs com o npm.
+
+Após certificar-se que possui o npm basta clonar o projeto no Github e rodar os seguintes comandos no terminal:
+
+1 - npm install (comando para instalar as dependências);\
+2 - npm start (comando para rodar o projeto React).
+
+Obs: a visualização pelo browser será feita pela porta http://localhost:3000.
+
 # Getting Started with Create React App:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
